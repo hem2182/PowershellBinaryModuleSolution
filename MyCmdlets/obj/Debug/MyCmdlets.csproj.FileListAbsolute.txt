@@ -1,0 +1,7 @@
+C:\Code\Powershell Solution\MyCmdlets\bin\Debug\MyCmdlets.dll
+C:\Code\Powershell Solution\MyCmdlets\bin\Debug\MyCmdlets.pdb
+C:\Code\Powershell Solution\MyCmdlets\bin\Debug\System.Management.Automation.dll
+C:\Code\Powershell Solution\MyCmdlets\obj\Debug\MyCmdlets.csproj.CoreCompileInputs.cache
+C:\Code\Powershell Solution\MyCmdlets\obj\Debug\MyCmdlets.csproj.CopyComplete
+C:\Code\Powershell Solution\MyCmdlets\obj\Debug\MyCmdlets.dll
+C:\Code\Powershell Solution\MyCmdlets\obj\Debug\MyCmdlets.pdb

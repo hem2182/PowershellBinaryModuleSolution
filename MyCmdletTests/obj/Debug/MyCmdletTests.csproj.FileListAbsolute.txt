@@ -1,0 +1,17 @@
+C:\Code\Powershell Solution\MyCmdletTests\bin\Debug\MyCmdletTests.dll
+C:\Code\Powershell Solution\MyCmdletTests\bin\Debug\MyCmdletTests.pdb
+C:\Code\Powershell Solution\MyCmdletTests\bin\Debug\MyCmdlets.dll
+C:\Code\Powershell Solution\MyCmdletTests\bin\Debug\nunit.framework.dll
+C:\Code\Powershell Solution\MyCmdletTests\bin\Debug\System.Management.Automation.dll
+C:\Code\Powershell Solution\MyCmdletTests\bin\Debug\MyCmdlets.pdb
+C:\Code\Powershell Solution\MyCmdletTests\bin\Debug\nunit.framework.pdb
+C:\Code\Powershell Solution\MyCmdletTests\bin\Debug\nunit.framework.xml
+C:\Code\Powershell Solution\MyCmdletTests\obj\Debug\MyCmdletTests.csprojAssemblyReference.cache
+C:\Code\Powershell Solution\MyCmdletTests\obj\Debug\MyCmdletTests.csproj.CoreCompileInputs.cache
+C:\Code\Powershell Solution\MyCmdletTests\obj\Debug\MyCmdletTests.csproj.CopyComplete
+C:\Code\Powershell Solution\MyCmdletTests\obj\Debug\MyCmdletTests.dll
+C:\Code\Powershell Solution\MyCmdletTests\obj\Debug\MyCmdletTests.pdb
+C:\Code\Powershell Solution\MyCmdletTests\bin\Debug\NUnit3.TestAdapter.dll
+C:\Code\Powershell Solution\MyCmdletTests\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Code\Powershell Solution\MyCmdletTests\bin\Debug\nunit.engine.dll
+C:\Code\Powershell Solution\MyCmdletTests\bin\Debug\nunit.engine.api.dll
